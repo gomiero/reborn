@@ -1,4 +1,4 @@
-# Reborn♾️ ♾️
+# Reborn♾️
 
 Welcome to the **Reborn♾️** repository. This is an experimental, personal research sandbox exploring software architecture, artificial intelligence dynamics, and human-agent collaboration.
 
